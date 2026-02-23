@@ -1,0 +1,9 @@
+# Arduino / IDE
+*.ino.bak
+build/
+*.elf
+*.bin
+
+# Config con credenciales (si algún día usas config.h o secrets.h)
+# config.h
+# secrets.h
